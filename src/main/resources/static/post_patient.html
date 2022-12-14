@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Discharge patient</title>
+    <!-- JavaScript Bundle with Popper -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+</head>
+<body>
+<nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/index.html">Dentist Clinic</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Dentists Management
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="/post_dentist.html">Register</a></li>
+                        <li><a class="dropdown-item" href="/list_dentist.html">See dentists</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/index.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Patients Management
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="/post_patient.html">Register</a></li>
+                        <li><a class="dropdown-item" href="/get_patient.html">List</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Appointments
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="/post_appointment.html">Register</a></li>
+                        <li><a class="dropdown-item" href="/get_appointments.html">List</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>-->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-7" style="background-color:#e6fffa; padding:10px; border-radius:3px">
+            <h3>Add Patient</h3>
+            <form id="add_new_patient">
+                <div class="form-group">
+                    <label class="control-label" for="nombre">First Name:</label>
+                    <input type="text" class="form-control" id="nombre"
+                           placeholder="Enter first name"
+                           name="nombre" required></input>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="apellido">Last Name:</label>
+                    <input type="text" class="form-control" id="apellido"
+                           placeholder="Enter last name"
+                           name="apellido" required></input>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="dni">Document:</label>
+                    <input type="text" class="form-control" id="dni"
+                           placeholder="Enter document"
+                           name="dni" required></input>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="fechaIngreso">Admission date:</label>
+                    <input type="date" class="form-control" id="fechaIngreso"
+                           placeholder="Enter admission date"
+                           name="fechaIngreso" required></input>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="email">Email:</label>
+                    <input type="text" class="form-control" id="email"
+                           placeholder="Enter email"
+                           name="email" required></input>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="calle">Street:</label>
+                    <input type="text" class="form-control" id="calle"
+                           placeholder="Enter adress' street"
+                           name="calle" required></input>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="numero">Address' number:</label>
+                    <input type="text" class="form-control" id="numero"
+                           placeholder="Enter address number"
+                           name="numero" required></input>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="localidad">Town:</label>
+                    <input type="text" class="form-control" id="localidad"
+                           placeholder="Enter town"
+                           name="localidad" required></input>
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="provincia">Province:</label>
+                    <input type="text" class="form-control" id="provincia"
+                           placeholder="Enter province"
+                           name="provincia" required></input>
+                </div>
+                <button type="submit" class="btn btn-danger"
+                        id="btn-add-new-patient">Save</button>
+            </form>
+            <div id="response" style="display:none; margin-top:10px">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/js/post_patient.js"></script>
+</body>
+</html>

@@ -1,0 +1,576 @@
+[2022-12-06 23:16:44] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:17:29] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:24:14] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:36:12] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:42:46] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:46:00] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:48:53] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:51:53] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:55:12] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:56:40] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 00:57:33] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 12:01:17] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 12:03:08] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 12:04:37] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 12:06:20] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 12:08:43] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 14:31:07] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-07 14:41:09] [ INFO ] [PatientService:30] Se inició un pedido de incorporación de patient
+[2022-12-11 19:19:30] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-11 19:26:11] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 13:38:35] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 13:38:38] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 14:08:35] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:08:41] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:09:01] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 14:09:15] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 14:09:25] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Noguez
+[2022-12-12 14:09:29] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 14:09:42] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 14:09:52] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 14:09:55] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 14:10:55] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:10:58] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 14:11:31] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 14:11:39] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 14:14:03] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 14:14:49] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:16:10] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:17:19] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 14:29:59] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:37:35] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 14:37:35] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 14:37:35] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:37:36] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 14:37:36] [ INFO ] [PatientService:59] Update operation initialized with id=1
+[2022-12-12 14:37:36] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 14:37:36] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 14:37:36] [ WARN ] [PatientService:51] Delete operation initialized withid=1
+[2022-12-12 14:37:36] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 14:37:36] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Nocetti
+[2022-12-12 14:37:36] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 14:37:36] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 14:37:36] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Nocetti
+[2022-12-12 14:37:36] [ INFO ] [DentistService:67] Search operation initialized with id=2
+[2022-12-12 14:37:36] [ INFO ] [DentistService:57] Update operation initialized with id=2
+[2022-12-12 14:37:36] [ INFO ] [DentistService:67] Search operation initialized with id=2
+[2022-12-12 14:37:36] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 14:37:36] [ WARN ] [DentistService:44] Delete operation initialized withid=1
+[2022-12-12 14:39:27] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:39:56] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:44:20] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 14:47:48] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:05:05] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:09:11] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:09:21] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Noguez
+[2022-12-12 15:09:34] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:10:23] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:14:46] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:15:22] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:20:38] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:25:25] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 15:25:30] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:25:44] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:26:17] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:26:39] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:26:39] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:26:50] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:27:17] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:27:17] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:27:27] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:27:48] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Gimenez
+[2022-12-12 15:27:53] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:27:56] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:28:04] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:28:31] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:28:31] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:28:31] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 15:28:31] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 15:28:42] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:28:42] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:28:42] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 15:28:42] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 15:28:46] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:29:02] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:29:21] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:29:25] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:29:28] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:29:29] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:31:36] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:33:01] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Gimenez
+[2022-12-12 15:33:12] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 15:33:22] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:33:22] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:33:22] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 15:33:22] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 15:33:25] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:33:49] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:35:12] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Gimenez
+[2022-12-12 15:35:22] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 15:35:31] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:35:31] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:35:31] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 15:35:31] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 15:35:34] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:37:13] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Gimenez
+[2022-12-12 15:37:26] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 15:37:36] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:37:36] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:37:36] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 15:37:36] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 15:37:39] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:37:45] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:39:18] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Gimenez
+[2022-12-12 15:39:28] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 15:39:39] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:39:39] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:39:39] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 15:39:39] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 15:39:42] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:39:50] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:39:55] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:40:04] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:40:08] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:41:10] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:41:22] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Noguez
+[2022-12-12 15:41:44] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 15:41:54] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:41:54] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:41:54] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 15:41:54] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 15:41:58] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:44:04] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:44:09] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:45:45] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:46:29] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Gimenez
+[2022-12-12 15:46:35] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:49:52] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:50:05] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Gimenez
+[2022-12-12 15:50:16] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 15:50:26] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:50:26] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:50:26] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 15:50:26] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 15:50:29] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:50:34] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:50:40] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:50:48] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:50:53] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:50:59] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:52:28] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:55:06] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:55:10] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:56:32] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Gimenez
+[2022-12-12 15:56:41] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 15:56:51] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:56:52] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 15:56:52] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 15:56:52] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 15:56:54] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 15:57:03] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 15:57:07] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 15:58:10] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 16:03:06] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 16:03:43] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Gimenez
+[2022-12-12 16:03:53] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 16:04:01] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 16:04:01] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 16:04:01] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 16:04:01] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 16:04:04] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 16:04:11] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 16:04:14] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 16:04:17] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 16:04:27] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 16:04:27] [ WARN ] [DentistService:44] Delete operation initialized withid=1
+[2022-12-12 16:04:31] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 16:04:46] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 16:04:50] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 17:50:20] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: Noguez
+[2022-12-12 17:50:36] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 17:50:38] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 17:51:49] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 17:51:52] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 17:51:53] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 17:52:04] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 17:52:19] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 17:52:50] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 17:55:02] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: sdfsgver
+[2022-12-12 17:55:06] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 17:55:34] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 17:55:38] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 17:55:44] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 17:55:46] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 17:55:48] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 17:55:57] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 17:55:57] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 17:55:57] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 17:55:57] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 17:56:00] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 18:02:08] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: dgdfdff
+[2022-12-12 18:02:10] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 18:04:15] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: madfjfds
+[2022-12-12 18:04:18] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 18:05:50] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: sfsgerer
+[2022-12-12 18:05:52] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 18:05:53] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 18:08:01] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: sdggfbhsdf
+[2022-12-12 18:08:03] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 18:08:04] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 18:08:07] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 18:52:25] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: fgadgfgdf
+[2022-12-12 18:52:28] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 18:52:29] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 18:54:04] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 18:54:07] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 18:54:09] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 18:58:07] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: dfgfsd
+[2022-12-12 18:58:09] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 18:58:11] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 18:59:03] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: gffgg
+[2022-12-12 18:59:06] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:04:13] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:04:33] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:04:36] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:04:38] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:04:43] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:07:51] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:08:37] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:08:39] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:08:40] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:08:44] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:08:44] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:08:45] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:08:47] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:08:47] [ WARN ] [PatientService:51] Delete operation initialized withid=1
+[2022-12-12 19:10:07] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:10:08] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:12:29] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:12:32] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:12:53] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:13:00] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:13:02] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:13:13] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:13:54] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:14:18] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:14:48] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:15:05] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:15:21] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:16:22] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:16:29] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:16:30] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:16:41] [ INFO ] [PatientService:44] Search operation initialized with id=2
+[2022-12-12 19:16:41] [ INFO ] [PatientService:44] Search operation initialized with id=2
+[2022-12-12 19:16:41] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:16:41] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:16:44] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:22:31] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: gfdsa
+[2022-12-12 19:22:54] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:22:59] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:23:01] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:23:09] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:23:09] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:23:09] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:23:09] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:23:11] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:27:07] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:27:07] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:27:07] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:27:07] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:27:22] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:30:58] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: hgfdsa
+[2022-12-12 19:31:12] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:31:15] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:31:45] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:32:28] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:32:43] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:32:43] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:32:43] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:32:43] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:32:46] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:37:45] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: dhfs
+[2022-12-12 19:38:14] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:38:24] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:38:24] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:38:24] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:38:24] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:38:27] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:40:00] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: gffsdgd
+[2022-12-12 19:40:22] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:40:29] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:40:29] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:40:29] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:40:29] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:40:32] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:41:46] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: f
+[2022-12-12 19:42:05] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:42:08] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:42:19] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:42:21] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:42:23] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:42:27] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:42:37] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:42:37] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:42:37] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:42:37] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:42:51] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:45:14] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:45:19] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: s
+[2022-12-12 19:45:34] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:45:37] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:45:43] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:45:56] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:45:58] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:46:05] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:46:05] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:46:05] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:46:05] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:46:07] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:46:16] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 19:46:16] [ WARN ] [AppointmentService:30] Delete operation initialized withid=1
+[2022-12-12 19:47:15] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:48:15] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:48:21] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 19:48:40] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: sda
+[2022-12-12 19:48:48] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:49:05] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:49:12] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:49:12] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:49:12] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:49:12] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:49:14] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:49:22] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 19:49:22] [ WARN ] [AppointmentService:30] Delete operation initialized withid=1
+[2022-12-12 19:52:32] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: s
+[2022-12-12 19:52:36] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 19:52:54] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:53:01] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:53:01] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 19:53:01] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 19:53:01] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 19:53:04] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:59:14] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: d
+[2022-12-12 19:59:28] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 19:59:30] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:59:36] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:59:39] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 19:59:43] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:01:50] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: f
+[2022-12-12 20:02:04] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 20:02:11] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:02:11] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:02:11] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:02:11] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 20:02:19] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:02:21] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:02:31] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:02:44] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:02:44] [ WARN ] [AppointmentService:30] Delete operation initialized withid=1
+[2022-12-12 20:02:52] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:02:59] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:03:04] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:05:17] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: a
+[2022-12-12 20:05:31] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 20:05:38] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:05:38] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:05:38] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:05:38] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 20:05:41] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:05:42] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:05:50] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:05:52] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:11:52] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: f
+[2022-12-12 20:12:10] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 20:12:17] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:12:17] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:12:17] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:12:17] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 20:12:19] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:12:21] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:12:29] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:12:30] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:14:02] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: w
+[2022-12-12 20:14:18] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 20:14:26] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:14:27] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:14:27] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:14:27] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 20:14:29] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:14:30] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:14:32] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:14:32] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:14:33] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:14:33] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:14:34] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:14:39] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:14:40] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:16:18] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: t
+[2022-12-12 20:16:34] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 20:16:43] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:16:43] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:16:43] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:16:43] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 20:16:45] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:16:46] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:16:50] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:16:51] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:16:52] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:18:54] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: s
+[2022-12-12 20:19:15] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 20:19:23] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:19:23] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:19:23] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:19:23] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 20:19:25] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:19:26] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:19:54] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:19:54] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:19:54] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:19:54] [ INFO ] [AppointmentService:45] Update operation initialized with id=1
+[2022-12-12 20:23:11] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:23:30] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:23:34] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:23:34] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:23:34] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:23:34] [ INFO ] [AppointmentService:45] Update operation initialized with id=1
+[2022-12-12 20:23:43] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:23:43] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:23:43] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:23:43] [ INFO ] [AppointmentService:45] Update operation initialized with id=1
+[2022-12-12 20:23:45] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:23:45] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:23:45] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:23:45] [ INFO ] [AppointmentService:45] Update operation initialized with id=1
+[2022-12-12 20:23:48] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:23:51] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:24:38] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: g
+[2022-12-12 20:24:47] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: a
+[2022-12-12 20:24:52] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:25:30] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:25:41] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:25:41] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:25:41] [ INFO ] [DentistService:67] Search operation initialized with id=3
+[2022-12-12 20:25:41] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 20:25:46] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:25:52] [ INFO ] [AppointmentService:52] Search operation initialized with id=2
+[2022-12-12 20:26:02] [ INFO ] [AppointmentService:52] Search operation initialized with id=2
+[2022-12-12 20:26:02] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:26:02] [ INFO ] [DentistService:67] Search operation initialized with id=2
+[2022-12-12 20:26:02] [ INFO ] [AppointmentService:45] Update operation initialized with id=2
+[2022-12-12 20:26:07] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:26:27] [ INFO ] [AppointmentService:52] Search operation initialized with id=2
+[2022-12-12 20:26:27] [ WARN ] [AppointmentService:30] Delete operation initialized withid=2
+[2022-12-12 20:30:11] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: s
+[2022-12-12 20:30:28] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 20:30:39] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:30:39] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:30:39] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:30:39] [ INFO ] [AppointmentService:38] Initialized operation for registration of appointment.
+[2022-12-12 20:30:42] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:30:43] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:30:47] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:30:52] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:30:53] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:31:00] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:31:00] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:31:00] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:31:00] [ INFO ] [AppointmentService:45] Update operation initialized with id=1
+[2022-12-12 20:31:00] [ INFO ] [AppointmentService:67] Initialized operation to list all appointments
+[2022-12-12 20:31:03] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:31:04] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:31:05] [ INFO ] [AppointmentService:52] Search operation initialized with id=1
+[2022-12-12 20:31:05] [ WARN ] [AppointmentService:30] Delete operation initialized withid=1
+[2022-12-12 20:31:24] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 20:31:26] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:31:30] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:31:30] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:31:30] [ INFO ] [PatientService:59] Update operation initialized with id=1
+[2022-12-12 20:31:30] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 20:31:33] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:31:35] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 20:31:35] [ WARN ] [PatientService:51] Delete operation initialized withid=1
+[2022-12-12 20:31:38] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 20:31:40] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:33:15] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: h
+[2022-12-12 20:33:17] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:33:24] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:33:24] [ WARN ] [DentistService:44] Delete operation initialized withid=1
+[2022-12-12 20:33:28] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:33:30] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:41:08] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: s
+[2022-12-12 20:41:10] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:41:12] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:41:21] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:41:21] [ WARN ] [DentistService:44] Delete operation initialized withid=1
+[2022-12-12 20:49:23] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: f
+[2022-12-12 20:49:25] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:49:31] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:49:37] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:49:45] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:55:33] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: h
+[2022-12-12 20:55:35] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:55:36] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:56:19] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: s
+[2022-12-12 20:56:21] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:56:22] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:56:29] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:56:39] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:56:48] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:57:04] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:57:07] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 20:58:16] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: h
+[2022-12-12 20:58:19] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 20:58:20] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:00:04] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: k
+[2022-12-12 21:00:06] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:00:07] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:02:01] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: f
+[2022-12-12 21:02:03] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:02:04] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:02:28] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:02:33] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:03:14] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: g
+[2022-12-12 21:03:17] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:03:20] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:03:24] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:03:27] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:03:32] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:03:34] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:03:54] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:03:57] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:03:58] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:05:12] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:05:15] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:05:22] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:05:23] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:09:31] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: s
+[2022-12-12 21:09:33] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:09:34] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:09:39] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:09:42] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:09:46] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:09:47] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:09:49] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:11:30] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:16:37] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:17:09] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 21:17:26] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 21:17:28] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 21:21:44] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: r
+[2022-12-12 21:21:45] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:21:46] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:21:51] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:21:51] [ INFO ] [DentistService:31] Initialized operation for registration of dentist with last name: r
+[2022-12-12 21:21:52] [ INFO ] [DentistService:73] Initialized operation to list all dentists
+[2022-12-12 21:22:01] [ INFO ] [DentistService:67] Search operation initialized with id=1
+[2022-12-12 21:22:01] [ WARN ] [DentistService:44] Delete operation initialized withid=1
+[2022-12-12 21:22:07] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 21:22:21] [ INFO ] [PatientService:31] Patient admission requested
+[2022-12-12 21:22:24] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 21:22:27] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 21:22:39] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 21:22:39] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 21:22:39] [ INFO ] [PatientService:59] Update operation initialized with id=1
+[2022-12-12 21:22:39] [ INFO ] [PatientService:38] Initialized operation to list all patients
+[2022-12-12 21:22:47] [ INFO ] [PatientService:44] Search operation initialized with id=1
+[2022-12-12 21:22:47] [ WARN ] [PatientService:51] Delete operation initialized withid=1
